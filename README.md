@@ -1,2 +1,8 @@
+## PREVIEW:  
 # qb-menu
-qb-menu edit css by Guri
+
+### If you need support I have a discord server available
+## https://discord.gg/renEJubSG2
+
+# Installation
+- Delete the qb-menu and replace with this
