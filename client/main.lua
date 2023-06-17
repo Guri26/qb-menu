@@ -1,3 +1,4 @@
+print("GARBAGE JOB MODIFIED BY GURI")
 local QBCore = exports['qb-core']:GetCoreObject()
 
 
