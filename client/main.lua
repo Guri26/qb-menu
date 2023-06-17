@@ -1,4 +1,4 @@
-print("GARBAGE JOB MODIFIED BY GURI")
+print("QB-MENU MODIFIED BY GURI SCRIPTS")
 local QBCore = exports['qb-core']:GetCoreObject()
 
 
